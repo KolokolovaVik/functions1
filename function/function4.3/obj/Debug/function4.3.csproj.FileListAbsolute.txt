@@ -1,0 +1,6 @@
+D:\csLight\functions1\function\function4.3\bin\Debug\function4.3.exe.config
+D:\csLight\functions1\function\function4.3\bin\Debug\function4.3.exe
+D:\csLight\functions1\function\function4.3\bin\Debug\function4.3.pdb
+D:\csLight\functions1\function\function4.3\obj\Debug\function4.3.csprojAssemblyReference.cache
+D:\csLight\functions1\function\function4.3\obj\Debug\function4.3.exe
+D:\csLight\functions1\function\function4.3\obj\Debug\function4.3.pdb

@@ -1,0 +1,6 @@
+D:\csLight\functions1\function\function\bin\Debug\function.exe.config
+D:\csLight\functions1\function\function\bin\Debug\function.exe
+D:\csLight\functions1\function\function\bin\Debug\function.pdb
+D:\csLight\functions1\function\function\obj\Debug\function.csprojAssemblyReference.cache
+D:\csLight\functions1\function\function\obj\Debug\function.exe
+D:\csLight\functions1\function\function\obj\Debug\function.pdb
