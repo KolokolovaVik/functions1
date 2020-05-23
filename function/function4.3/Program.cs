@@ -12,19 +12,19 @@ namespace function4._3
         {
             int number;
 
-            Integer(out number);
+            OutputInteger(out number);
         }
 
-        static int Integer(out int number)
+        static void OutputInteger(out int number)
         {
-            number = 0;
+           number = 0;
 
             bool isWork = true;
             while (isWork)
             {
                 Console.Write("\nВведите число: ");
-                string n = Console.ReadLine();
-                bool result = int.TryParse(n, out number);
+                string numeral = Console.ReadLine();
+                bool result = int.TryParse(numeral, out number);
                 if (result)
                 {
                     Console.WriteLine("Ура! Вы ввели число: " + number);
@@ -35,7 +35,6 @@ namespace function4._3
                     Console.WriteLine("\nНе число! Попробуйте ещё раз.");
                 }
             }
-            return number;
         }
     }
 }
